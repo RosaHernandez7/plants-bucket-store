@@ -1,0 +1,25 @@
+.main-menu{
+    width: 100%;
+    /* width: 500px;
+    justify-content: center; */
+}
+.nav-menu{
+    display:flex;
+    flex-wrap: row;
+}
+.nav-menu ul{
+    width:100%;
+    justify-content: center;
+}
+
+.nav-menu li{
+    list-style: none;
+    margin: 5px;
+    padding:5px;
+    font-size: large;
+    font-weight: 600;
+    
+}
+.nav-menu a:hover{
+    color:rgb(121, 119, 119)
+ }
